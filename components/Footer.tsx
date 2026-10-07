@@ -1,0 +1,1 @@
+export default function Footer(){return <footer><div className="container footer-grid"><div className="brand">bacılar<span>.</span></div><div className="footer-links"><span>Instagram · Yakında</span><span>TikTok · Yakında</span></div><div className="footer-links right"><span>KVKK · Yakında</span><span>Gizlilik · Yakında</span><span>Koşullar · Yakında</span></div></div></footer>}
